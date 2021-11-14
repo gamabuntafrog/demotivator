@@ -14,8 +14,6 @@ input {
   padding: 10px;
 }
 
-.content__container {
-}
 .demot-item {
   padding: 20px 0px;
   margin: 0px auto;
@@ -55,12 +53,14 @@ img {
 }
 .content__h1 {
   font-size: 30px;
+  width: 90%;
+
   display: inline-block;
   text-align: center;
 }
 p {
   font-size: 15px;
-  padding: 0 20px;
+  width: 90%;
   text-align: center;
 }
 h1,
